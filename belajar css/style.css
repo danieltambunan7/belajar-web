@@ -1,0 +1,62 @@
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+nav {
+    background-color: white;
+    padding-right: 5px;
+    text-align: right;
+}
+nav a {
+    font-size: 10px;
+    text-decoration: none;
+    color: grey;
+}
+nav a:hover {
+    font-weight: bold;
+}
+
+img {
+    float: left;
+    padding-left: 10px;
+}
+
+.box {
+    border-style: inset;
+    margin: 10px;
+}
+.card1 {
+    border-style: inset;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    height: 120px;
+    letter-spacing: 2px;
+}
+.card2 {
+    border-style: inset;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    height: 200px;
+}
+h1 {
+    padding-left: 120px;
+    font-size: 15px;
+    position: absolute;
+}
+.FE {
+    padding-left: 120px;
+    font-size: 10px;
+    position: absolute;
+    padding-top: 40px;
+}
+
+.ket {
+    float: right;
+    text-align: justify;
+    font-size: 15px;
+}
